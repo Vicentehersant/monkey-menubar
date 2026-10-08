@@ -1,3 +1,5 @@
+![monkey-menubar](banner.png)
+
 # Monkey (menubar)
 
 Menu-bar mascot for Agents-OS / Monkey OS: a pixel-brand **monkey** that shows what
